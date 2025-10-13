@@ -1,7 +1,7 @@
-# VanillaRNN-TextGenerator
+# Character Level RNN Text Generator 
 
 ## Overview
-VanillaRNN-TextGenerator is a character-level text generation project using a Vanilla Recurrent Neural Network (RNN). The goal is to train the model to generate text character by character, exploring various configurations and understanding the limitations of simple RNNs.
+char-rnn is a character-level text generation project using a Vanilla Recurrent Neural Network (RNN). The goal is to train the model to generate text character by character, exploring various configurations and understanding the limitations of simple RNNs.
 
 ## Features
 - Custom Vanilla RNN implementation using TensorFlow/Keras.
